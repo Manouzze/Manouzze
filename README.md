@@ -17,8 +17,6 @@ Here are some ideas to get you started:
 <p align="center">- ⚡ Portfolio : https://manouzze.github.io/portfolio/</p>
 
 
-
-<h4 align="center">Languages & Frameworks</h4>
 <p align="center">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="30" height="30"/>
 <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="30" height="30"/>
