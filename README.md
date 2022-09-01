@@ -1,5 +1,6 @@
- ### Hi there 👋
+ ### Hello 👋
 
+📚 Je suis actuellement en formation depuis Janvier 2022 pour devenir developpeur full stack web et web mobile ! 🤖
 
 <!-- **Manouzze/Manouzze** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,8 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ... --> 
 - 🌱 I’m currently learning : **Node.js, express, graphQL and mongoDB**
 - 👨‍💻 All of my projects are available at [https://manouzze.github.io/portfolio/](https://manouzze.github.io/portfolio/)
-
-
 
 
 
