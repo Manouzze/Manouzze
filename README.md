@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 
 
-<h3 align="center">Languages & Frameworks</h3>
+<h4 align="center">Languages & Frameworks</h4>
 <p align="center">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="30" height="30"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="30" height="30"/> 
