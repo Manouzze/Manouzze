@@ -13,8 +13,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ... --> 
-- 🌱 I’m currently learning : **Node.js, express, graphQL and mongoDB**
-- 👨‍💻 All of my projects are available at [https://manouzze.github.io/portfolio/](https://manouzze.github.io/portfolio/)
+<p align="center">- 🌱 I’m currently learning : **Node.js, express, graphQL and mongoDB**</p>
+<p align="center">- ⚡ Portfolio : [https://manouzze.github.io/portfolio/](https://manouzze.github.io/portfolio/)</p>
 
 
 
