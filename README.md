@@ -1,6 +1,6 @@
- ### Hello 👋
+ <h1 align="center">Hello 👋</h1>
 
-📚 Je suis actuellement en formation depuis Janvier 2022 pour devenir developpeur full stack web et web mobile ! 🤖
+Je suis actuellement en formation pour devenir developpeur full stack web et web mobile ! 🤖
 
 <!-- **Manouzze/Manouzze** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 
 <h3 align="center">Languages & Frameworks</h3>
-<p align="center">
+<p align="center" style="background-color:white">
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> 
 <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>  
