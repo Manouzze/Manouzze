@@ -1,4 +1,4 @@
- <h1 align="center">Hello 👋</h1>
+ <!--<h1 align="center">Hello 👋</h1></p>
 
 <p align="center">Je suis actuellement en formation pour devenir developpeur full stack web et web mobile ! 🤖</p>
 
@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ... --> 
 <p align="center">- 🌱 I’m currently learning : **Node.js, express, graphQL and mongoDB**</p>
-<p align="center">- ⚡ Portfolio : [https://manouzze.github.io/portfolio/](https://manouzze.github.io/portfolio/)</p>
+<p align="center">- ⚡ Portfolio : https://manouzze.github.io/portfolio/</p>
 
 
 
