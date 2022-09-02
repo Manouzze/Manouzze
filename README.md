@@ -1,5 +1,5 @@
  <!--<h1 align="center">Hello 👋</h1></p>
-<img src="/Manouzze/Manouzze/blob/main/fond%20github%20-%20Copie.jpg?raw=true" alt="fond github - Copie.jpg">
+<img align="center" width="200" src="/Manouzze/Manouzze/blob/main/fond-github.jpg?raw=true" alt="fond-github.jpg">
 <p align="center">Je suis actuellement en formation pour devenir developpeur full stack web et web mobile ! 🤖</p>
 
 <!-- **Manouzze/Manouzze** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ... --> 
-<p align="center">- I’m currently learning : **Node.js, express, graphQL and mongoDB**</p>
+<p align="center">- I’m currently learning : Node.js, express, graphQL and mongoDB</p>
 <p align="center">- Portfolio : https://manouzze.github.io/portfolio/</p>
 
 
